@@ -1,5 +1,5 @@
 # Taskcafe installation scripts
-The taskcafe installation scripts automate the installation of taskcafe.
+The taskcafe installation scripts automate the installation of [taskcafe](https://www.github.com/JordanKnott/taskcafe).
 
 # How to use
 Choose the build of taskcafe you want to install (latest, or nightly)
@@ -8,7 +8,7 @@ Know your distro branch- this will be important later.
 
 Clone the repository:
 
-`git clone http://10.0.0.16:3001/obiequack/taskcafe-install-scripts`
+`git clone https://github.com/obiequack/taskcafe-inst`
 
 Change permissions so your chosen script is executable:
 
